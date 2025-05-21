@@ -1,5 +1,5 @@
 # jobpreparation
-# 👨‍💻 Juan Sebastián Benavides – Analista de Datos en Formación
+# 👨‍💻 Juan Sebastián Barreto Benavides – Analista de Datos en Formación
 
 Soy un **Analista de Datos en formación**, apasionado por descubrir patrones, extraer insights y transformar datos en conocimiento útil para la toma de decisiones. Me formé en el bootcamp de ciencia de datos de **Henry** y he continuado desarrollando habilidades de forma autodidacta a través de proyectos prácticos enfocados en análisis estadístico, visualización de datos y limpieza de información.
 
